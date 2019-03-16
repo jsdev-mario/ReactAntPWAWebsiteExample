@@ -1,63 +1,31 @@
-[![Join the chat at https://gitter.im/react-pwa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/react-pwa/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+# Ant Design website example using React/Redux, PWA
 
+![alt text](https://raw.githubusercontent.com/bk313131/ReactAntPWAWebsiteExample/master/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/bk313131/ReactAntPWAWebsiteExample/master/screenshots/2.png)
 
-<p align="center" style="text-align:center">
-  <img src="https://www.atyantik.com/wp-content/uploads/2018/10/PawJS-AntDesign.png" alt="Paw JS"/>
-</p>
-<h1 align="center" style="text-align:center">ReactPWA - PawJS & Ant Design</h1>
+## Available Scripts
 
+In the project directory, you can run:
 
-Example repository for integrating Ant Design with ReactPWA project. This repo demonstrates the usage & integration of Ant Design in existing ReactPWA project.
+### `npm start`
 
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Getting Started
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-##### 1. Clone the repo to your local PC and go to the installation
-```bash
-git clone https://github.com/Atyantik/example-pawjs-ant-design.git reactpwa-ant && cd reactpwa-ant
-```
-  
-##### 2. Install the dependencies
-```bash
-npm install
-```
+### `npm test`
 
-##### 2. Start the demo project
-```bash
-npm start
-```
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](#running-tests) for more information.
 
-### AntDesign
-Visit [ant.design](https://ant.design) for more details & documentation on And Design  
+### `npm run build`
 
-### ReactPWA
-ReactPWA is a highly scalable, Progressive Web Application foundation, boilerplate, with the best Developer Experience built on top of PawJS
-Visit [ReactPWA](https://www.reactpwa.com) for more configuration & documentation.
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Backers
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/react-pwa#backer)]
-<a href="https://opencollective.com/react-pwa#backers" target="_blank"><img src="https://opencollective.com/react-pwa/backers.svg?width=890"></a>
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-
-### Sponsors
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/react-pwa#sponsor)]
-
-<a href="https://opencollective.com/react-pwa/sponsor/0/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/1/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/2/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/3/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/4/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/5/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/6/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/7/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/8/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/react-pwa/sponsor/9/website" target="_blank"><img src="https://opencollective.com/react-pwa/sponsor/9/avatar.svg"></a>
-
-### Supporters
-##### Atyantik Technologies Private Limited
-Everyone at Atyantik Technologies is contributing their free time for contributing to the project and core discussions.  
-<a href="https://www.atyantik.com" target="_blank"><img width="150px" src="https://www.reactpwa.com/img/supporters/atyantik.svg"></a>
-
-
-### License
-This project is licensed under the MIT license, Copyright (c) 2018 [Atyantik Technologies Private Limited](https://www.atyantik.com). For more information see [LICENSE.md](https://github.com/Atyantik/example-pawjs-ant-design/blob/master/LICENSE.md).  
+See the section about [deployment](#deployment) for more information.
