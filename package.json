@@ -1,0 +1,43 @@
+{
+  "name": "example-pawjs-ant-design",
+  "version": "1.0.0",
+  "description": "Example on using Ant Design with PawJS",
+  "scripts": {
+    "start": "pawjs --env=development start",
+    "build": "pawjs --env=production --config=prod.pawconfig.json build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atyantik/example-pawjs-ant-design.git"
+  },
+  "author": {
+    "name": "Atyantik Technologies",
+    "email": "admin@atyantik.com",
+    "url": "https://www.atyantik.com/"
+  },
+  "engines": {
+    "node": ">=10.12.0"
+  },
+  "contributors": [
+    {
+      "name": "Tirth Bodawala",
+      "email": "tirthbodawala@atyantik.com",
+      "url": "https://www.atyantik.com/"
+    },
+    {
+      "name": "Yash Thakur",
+      "email": "thakur.yash514@gmail.com",
+      "url": "https://www.yashthakur.in/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atyantik/example-pawjs-ant-design/issues"
+  },
+  "homepage": "https://github.com/Atyantik/example-pawjs-ant-design#readme",
+  "dependencies": {
+    "@pawjs/less": "^2.0.0",
+    "@pawjs/pawjs": "^2.2.6",
+    "antd": "^3.10.2"
+  }
+}
